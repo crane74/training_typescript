@@ -11,9 +11,8 @@ services:
       - 8080:8080
       - 3000:3000
     volumes:
-      - ./src/:/var/src/app
+      - ./src/:/usr/src/app
       - ~/.ssh:/root/.ssh:ro
       - ~/.gitconfig:/root/.gitconfig:ro
     stdin_open: true
     tty: true
-
