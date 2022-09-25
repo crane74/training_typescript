@@ -1,3 +1,6 @@
 [submodule "src/beginners-typescript-tutorial"]
 	path = src/beginners-typescript-tutorial
 	url = git@github.com:total-typescript/beginners-typescript-tutorial.git
+[submodule "src/typescript-cheatsheet"]
+	path = src/typescript-cheatsheet
+	url = git@github.com:rmolinamir/typescript-cheatsheet.git
